@@ -37,10 +37,10 @@ processed_leads.csv
 Example Workflow:
 
 CSV Input
-> Python Processing
-> Lead Classification
-> Priority Assignment
-> CSV Export
+- Python Processing
+- Lead Classification
+- Priority Assignment
+- CSV Export
 
 ## How to Run:
 Run the script with:
