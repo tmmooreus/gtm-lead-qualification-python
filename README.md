@@ -43,5 +43,7 @@ CSV Input
 > CSV Export
 
 ## How to Run:
-Run the script with
+Run the script with:
+```bash
 python lead_qualifier.py
+```
